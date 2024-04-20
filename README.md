@@ -99,7 +99,7 @@ I-am-vishalmaurya@github
 
 
 
-
+<!--
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
@@ -123,7 +123,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
   </td>
   </tr>
 </table>
-
+-->
 ------
 Credits: [I-am-vishalmaurya](https://github.com/AaronSeb)
 Last Edited On: 18/04/2022
