@@ -23,9 +23,9 @@ Hola soy Aaron!
 <hr>
 
 
-## 🛠️ My Favorite Tools
+## 🛠️ Herramientas
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Lenguajes de programación
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>  
@@ -39,7 +39,7 @@ Hola soy Aaron!
 
     
 
-### 🧰 Frameworks and Libraries
+### 🧰 Frameworks y Librerías
 
 <p>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
@@ -50,7 +50,7 @@ Hola soy Aaron!
 
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases y Cloud Hosting
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="SQL-SERVER" src="https://img.shields.io/badge/-SQL SERVER-05122A?style=flat&logo=Microsoft%20SQL%20Server&logoColor=CC2927"></a>
@@ -60,7 +60,7 @@ Hola soy Aaron!
 
 </p>
 
-### 💻 Software and Tools
+### 💻 Software y herramientas
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
