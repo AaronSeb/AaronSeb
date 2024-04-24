@@ -15,7 +15,7 @@ Hola soy Aaron!
 ```
 📚 Soy egresado de desarrollo de software
 📝 Estoy interesado en el area del análisis de datos y el desarrollo 
-🌱 Estoy aprendiendo sobre la análitica de datos
+🌱 Estoy aprendiendo sobre análisis de datos
 🌟 Principales lenguajes: Python, SQL, java
 🚩 Me gusta mantenerme informado y a la vanguardia de los avances en tecnología
 🎵 Me gusta todo tipo de música. 
