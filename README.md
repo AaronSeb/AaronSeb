@@ -13,17 +13,12 @@ Hola soy Aaron!
 <hr>
 
 ```
-I-am-vishalmaurya@github
--------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+📚 Soy egresado de desarrollo de software
+📝 Estoy interesado en el area del análisis de datos y el desarrollo 
+🌱 Estoy aprendiendo sobre la análitica de datos
+🌟 Principales lenguajes: Python, SQL, java
+🚩 Me gusta mantenerme informado y a la vanguardia de los avances en tecnología
+🎵 Me gusta todo tipo de música. 
 ```
 <hr>
 
