@@ -32,7 +32,7 @@ Hola soy Aaron!
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-05122A.svg?logo=php&logoColor=#777BB4"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-05122A.svg?logo=amazon-dynamodb&logoColor=%23025E8C"></a>
-    <img alt="R" src="https://img.shields.io/badge/R-05122A?style=flat&logo=r&logoColor=blue&color=05122A">  
+    <!--<img alt="R" src="https://img.shields.io/badge/R-05122A?style=flat&logo=r&logoColor=blue&color=05122A">-->  
     
     
 
