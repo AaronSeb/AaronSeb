@@ -14,8 +14,8 @@ Hola soy Aaron!
 
 ```
 📚 Soy egresado de desarrollo de software
-📝 Estoy interesado en el area del análisis de datos y el desarrollo 
-🌟 Principales lenguajes: SQL,Python,java
+📝 Estoy interesado en automatización, datos e IA
+🌟 Principales lenguajes: SQL,Python
 🚩 Me gusta mantenerme informado y a la vanguardia de los avances en tecnología
 🎵 Me gusta todo tipo de música. 
 ```
@@ -28,9 +28,7 @@ Hola soy Aaron!
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>  
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-BE3939.svg?logo=java&logoColor=#FA6831"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-05122A.svg?logo=php&logoColor=#777BB4"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-05122A.svg?logo=amazon-dynamodb&logoColor=%23025E8C"></a>
     <!--<img alt="R" src="https://img.shields.io/badge/R-05122A?style=flat&logo=r&logoColor=blue&color=05122A">-->  
     
@@ -38,16 +36,6 @@ Hola soy Aaron!
 
     
 
-### 🧰 Frameworks y Librerías
-
-<p>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-D22128?style=flat&logo=laravel&logoColor=white"></a>
-    
-    
-
-</p>
 
 ### 🗄️ Databases y Cloud Hosting
 
